@@ -1,0 +1,4 @@
+[submodule "models/OpenAssistant-SFT-7-Llama-30B-GPTQ"]
+	path = models/OpenAssistant-SFT-7-Llama-30B-GPTQ
+	url = https://huggingface.co/TheBloke/OpenAssistant-SFT-7-Llama-30B-GPTQ
+	branch = 128-latest
