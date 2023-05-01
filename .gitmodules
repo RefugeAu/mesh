@@ -1,0 +1,3 @@
+[submodule "vendor/dolly"]
+	path = vendor/dolly
+	url = https://github.com/databrickslabs/dolly.git
